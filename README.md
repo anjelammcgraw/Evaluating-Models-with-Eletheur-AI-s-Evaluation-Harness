@@ -9,10 +9,10 @@ In this repo, we'll be working with evaluations of models. This project was done
 # ⚙️The Build Process
 
 ### Baselining Our Base Model
-The colab link to baselining our base model is found [here.]()
+The colab link to baselining our base model is found [here.](https://colab.research.google.com/drive/1ze3cbPvBcpPFDG8sSoc4jlqMsd3kiXcr?usp=sharing)
 
 ### Instruct-tune our Baseline Model
-The colab link to instruct-tuning Mistral-7B is found [here.]()
+The colab link to instruct-tuning Mistral-7B is found [here.](https://colab.research.google.com/drive/1PAGz2RnMuMgWZqh7YNRAQwGSGSqPl6Es?usp=sharing)
 
 ### Evaluate our Instruction Tuned Model
-The colab link to evaluating our instruct-tuned model is found [here.]()
+The colab link to evaluating our instruct-tuned model is found [here.](https://colab.research.google.com/drive/17dAWoT8FYpfadJV2-0kHfeouEmYrkmFq?usp=sharing)
