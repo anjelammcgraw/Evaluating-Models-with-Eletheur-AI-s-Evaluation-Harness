@@ -4,7 +4,7 @@ In this repo, we'll be working with evaluations of models. This project was done
 
 ### ⚙️The colab links to the code are found below and will also be included in this repo 
 
-### 🫂The video walkthrough can be found [here.]([https://www.loom.com/share/883c58fce40241999ab5b6c716c24135?sid=3d9a1279-65ed-4bee-b1d5-2cbc32ef53d1](https://www.loom.com/share/672300a6608a4cb08003e405c62457d0?sid=bf69b721-710b-4b2b-a49e-949f5f5ae06f))
+### 🫂The video walkthrough can be found [here.](https://www.loom.com/share/1cbaad0cc8d846d7983786e8c72b5b57?sid=b96c959e-f38f-4f7f-9eae-389f1fadc6b5) 
 
 # ⚙️The Build Process
 
