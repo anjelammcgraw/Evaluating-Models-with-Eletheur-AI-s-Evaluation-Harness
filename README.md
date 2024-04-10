@@ -2,7 +2,7 @@
 
 In this repo, we'll be working with evaluations of models. This project was done during Week 3 of AI Makerspace's LLM Engineering Cohort 2 (LLME2).
 
-### ⚙️The colab links to the code are found below and will also be included in this repo 
+### ⚙️The colab links to the code are found below and will also be included in this repo.
 
 ### 🫂The video walkthrough can be found [here.](https://www.loom.com/share/1cbaad0cc8d846d7983786e8c72b5b57?sid=b96c959e-f38f-4f7f-9eae-389f1fadc6b5) 
 
