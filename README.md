@@ -1,6 +1,6 @@
 # 🤖 Evaluating-Models-with-Eletheur-AI-s-Evaluation-Harness
 
-In this repo, we'll be working with evaluations of models. This project was done during Week 3 of AI Makerspace's LLM Engineering Cohort 2 (LLME2).
+In this repo, we'll be working with evaluations of models. 
 
 ### ⚙️The colab links to the code are found below and will also be included in this repo.
 
